@@ -10,7 +10,7 @@ version = -1
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    description = "Lorem ipsum"
+    description = "Testing First Plugin"
     authors = listOf("Cloudburst")
 
     /**
