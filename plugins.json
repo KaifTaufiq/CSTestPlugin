@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://animedekho.net/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KaifTaufiq/CSTestPlugin",
+        "fileSize": 23874,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Hindi Provider"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 17,
+        "internalName": "AnimeDekhoProvider",
+        "description": "Anime Dekho",
+        "url": "https://raw.githubusercontent.com/KaifTaufiq/CSTestPlugin/builds/AnimeDekhoProvider.cs3",
+        "name": "AnimeDekhoProvider"
+    }
+]

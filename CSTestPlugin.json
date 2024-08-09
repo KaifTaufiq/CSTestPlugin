@@ -1,0 +1,8 @@
+{
+    "name": "Kaif's Test",
+    "description": "Let's See where it goes",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/KaifTaufiq/CSTestPlugin/builds/plugins.json"
+    ]
+  }
