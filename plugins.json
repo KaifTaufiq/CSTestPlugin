@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KaifTaufiq/CSTestPlugin",
+        "fileSize": 8304,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Kaif"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": -1,
+        "internalName": "ExampleProvider",
+        "description": "Testing First Plugin",
+        "url": "https://raw.githubusercontent.com/KaifTaufiq/CSTestPlugin/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    }
+]
