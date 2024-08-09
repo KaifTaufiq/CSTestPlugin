@@ -11,7 +11,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "Testing First Plugin"
-    authors = listOf("Cloudburst")
+    authors = listOf("Kaif")
 
     /**
     * Status int as the following:
